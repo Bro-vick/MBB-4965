@@ -1,2 +1,2 @@
 # MBB-4965
-This is a web page on a technology company, made by Bekee Dumbari.
+This is a web page about a technology company, made by Bekee Dumbari.
